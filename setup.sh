@@ -10,9 +10,6 @@ echo -e "=====================\n"
 main () {
   # TODO: Configure macOS preferences
 
-  # Install Xcode command line tools
-  xcode-select --install
-
   # Configure Homebrew
   "$ROOT/setup-brew.sh"
 
