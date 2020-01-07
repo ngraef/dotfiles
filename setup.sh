@@ -16,6 +16,7 @@ main () {
   # TODO: Configure git
 
   # TODO: Configure vscode extensions and settings
+  # "$ROOT/vscode-install-extensions.sh"
 
   # TODO: Configure ~/Projects directory
 
