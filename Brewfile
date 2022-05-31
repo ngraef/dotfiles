@@ -8,15 +8,16 @@ tap "homebrew/core"
 
 # brew "automake"
 brew "awscli"
-brew "bat"
+# brew "bat"
 # brew "cocoapods"
 brew "dive"
 # brew "exiftool"
 # brew "ffmpeg"
 brew "gh"
 brew "git"
-brew "git-flow-avh"
+# brew "git-flow-avh"
 brew "go"
+# brew "graphicsmagick"
 # brew "graphviz"
 # brew "helm"
 brew "jq"
@@ -24,15 +25,15 @@ brew "jq"
 brew "kubernetes-cli"
 brew "make"
 brew "mas"
-brew "minikube"
+# brew "minikube"
 # brew "nmap"
-brew "opa"
+# brew "opa"
 # brew "openssl@1.1"
 # brew "python"
 brew "python-yq"
 brew "starship"
 brew "telnet"
-# brew "watch"
+brew "watch"
 brew "watchman"
 # brew "zsh"
 
@@ -40,15 +41,15 @@ brew "watchman"
 # cask "android-studio"
 cask "azure-data-studio"
 # cask "db-browser-for-sqlite"
-cask "displaylink"
-cask "docker"
-cask "dotnet-sdk"
+# cask "displaylink"
+# cask "docker"
+# cask "dotnet-sdk"
 cask "drawio"
 cask "firefox"
 cask "firefox-developer-edition"
-cask "font-fira-code"
+# cask "font-fira-code"
 cask "font-firacode-nerd-font"
-cask "fork"
+# cask "fork"
 # cask "gitkraken"
 cask "google-chrome"
 cask "google-chrome-canary"
@@ -56,14 +57,17 @@ cask "gpg-suite-no-mail"
 # cask "hex-fiend"
 cask "iterm2"
 cask "lens"
-cask "macdown"
+# cask "logitech-g-hub"
+# cask "macdown"
 cask "microsoft-edge-dev"
 cask "microsoft-teams"
 # cask "mysqlworkbench"
 # cask "nomad"
+cask "obsidian"
+cask "onedrive"
 # cask "parallels"
 # cask "postgres"
-cask "postico"
+# cask "postico"
 cask "postman"
 cask "safari-technology-preview"
 cask "slack"
@@ -72,19 +76,20 @@ cask "spotify"
 cask "visual-studio-code"
 # cask "visual-studio-code-insiders"
 # cask "visual-studio"
-cask "vlc"
-cask "webex-meetings"
+# cask "vlc"
+# cask "webex-meetings"
 # cask "wireshark"
 cask "zoom"
 
-mas "GarageBand", id: 682658836
-mas "iMovie", id: 408981434
-mas "Keynote", id: 409183694
-mas "Microsoft Remote Desktop", id: 1295203466
-mas "Numbers", id: 409203825
-mas "Pages", id: 409201541
-mas "Sim Daltonism", id: 693112260
-mas "Transporter", id: 1450874784
+# mas "Apple Configurator 2", id: 1037126344
+# mas "GarageBand", id: 682658836
+# mas "iMovie", id: 408981434
+# mas "Keynote", id: 409183694
+# mas "Microsoft Remote Desktop", id: 1295203466
+# mas "Numbers", id: 409203825
+# mas "Pages", id: 409201541
+# mas "Sim Daltonism", id: 693112260
+# mas "Transporter", id: 1450874784
 mas "Xcode", id: 497799835
 
 # TODO: Additional Tools for Xcode requires auth to download. Package it with repo?
