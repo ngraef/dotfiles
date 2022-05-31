@@ -21,7 +21,7 @@ main () {
   # TODO: Configure ~/Projects directory
 
   # TODO: Configure zsh
-  # include lukechilds/zsh-nvm plugin
+  # touch ~/.hushlogin
 }
 
 main
